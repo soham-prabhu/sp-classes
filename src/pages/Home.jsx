@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar';
 import { getAllActiveCourses } from '../services/userServices';
 import { deleteCourse } from '../services/courseServices';
 import { toast } from 'react-toastify';
-import Header from '../Components/Header';
+import Header from '../components/Header';
 
 const Home = () => {
   const [courses, setCourses] = useState([]);
