@@ -9,7 +9,7 @@ import CourseForm from "./pages/CourseForm"
 import AllVideos from "./pages/AllVideos"
 import VideoForm from "./pages/VideoForm"
 import AllStudents from "./pages/AllStudents"
-import CourseDetails from "./Pages/CourseDetails"
+import CourseDetails from "./pages/CourseDetails"
 import { CourseRegistration } from "./pages/CourseRegistration"
 import StudentDashboard from './pages/StudentDashboard';
 import { MyCourse } from "./pages/MyCourse"
