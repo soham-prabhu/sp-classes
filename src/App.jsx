@@ -1,7 +1,7 @@
 import { Route, Routes } from "react-router"
 import { ToastContainer } from "react-toastify"
 import { LoginProvider } from "./context/LoginContext"
-import Home from "./Pages/Home"
+import Home from "./pages/Home"
 import Login from "./pages/Login"
 import AdminLayout from "./components/AdminLayout"
 import AllCourses from "./pages/AllCourses"
