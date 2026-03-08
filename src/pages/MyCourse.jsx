@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import config from "../services/config";
 import { getMyCourses } from "../services/studentServices";
-import Header from "../Components/Header";
+import Header from "../components/Header";
 import { Navigate, useNavigate } from "react-router";
 
 export const MyCourse = () => {

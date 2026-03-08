@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import { getCourseVideos } from "../services/studentServices";
-import Header from "../Components/Header";
+import Header from "../components/Header";
 
 function CourseVideos() {
     const { id } = useParams()

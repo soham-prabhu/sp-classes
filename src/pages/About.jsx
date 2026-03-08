@@ -1,7 +1,7 @@
 import React from 'react';
 import { useLocation } from 'react-router-dom';
 import Navbar from '../components/Navbar'; 
-import Header from '../Components/Header';
+import Header from '../components/Header';
 
 const About = () => {
   const location = useLocation();

@@ -3,7 +3,7 @@ import { useParams } from 'react-router-dom';
 import config from '../services/config';
 import { getCourse } from '../services/studentServices';
 import { useNavigate } from 'react-router-dom';
-import Header from '../Components/Header';
+import Header from '../components/Header';
 
 export const CourseDetails = () =>
 {

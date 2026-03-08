@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import Header from "../Components/Header";
+import Header from "../components/Header";
 import config from "../services/config";
 
 const StudentDashboard = () => {
