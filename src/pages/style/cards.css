@@ -1,0 +1,25 @@
+.course-card {
+  background-color: #141520;
+  border: 1px solid #2a2b3d;
+  border-radius: 14px;
+  transition: all 0.25s ease;
+}
+
+.course-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 28px rgba(94, 43, 151, 0.25);
+}
+
+.course-card.secondary {
+  background-color: #10111a;
+}
+
+.course-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.course-desc {
+  font-size: 0.8rem;
+  color: #9ca3af;
+}
